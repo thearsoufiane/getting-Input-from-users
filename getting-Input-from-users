@@ -1,0 +1,33 @@
+
+# ====== in this tutorial , i'm going to show you how to get input from
+# a user ======
+
+# ====== so we're basically going to allow a user to input information into our program
+
+# ====== and I'm actually going to take the information that the user
+# input's and , I'm going to store it inside a variable
+# then we're going to be able to do something with that variable  ======
+
+# ====== I just have to type out input ()   ======
+
+# input() # ====== like this and then     ======
+
+# ====== so I'm just going to say enter your name like  ======
+
+# input(enter your name : ")   # ====== and I will add some variable   ======
+name = input(" enter your name ")
+print(" hello " + name)
+
+   # we will give us hello + name that user write
+
+   # we can also add some variable like age
+
+age = input( " enter your age ")
+print( "  that is cool you are "+ age)
+
+    # we can also add some variable like where are you grom
+
+frome = input( " enter where are you from ")
+print("amazing you from " + frome )
+
+     # we will give us (amazing you from + cuntry name that user write)
